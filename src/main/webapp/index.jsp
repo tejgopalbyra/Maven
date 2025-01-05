@@ -1,5 +1,5 @@
 <html>
-<body bgcolor=red>
-<marquee><H1><font color='blue'> WELCOME TO SYSGEEKS...! <font></H1></marquee> 
+<body bgcolor=yellow text=blue>
+<marquee><H1><WELCOME TO SYSGEEKS...!</H1></marquee> 
 </body>
 </html>
