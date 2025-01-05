@@ -1,8 +1,5 @@
 <html>
-<body bgcolor=blue>
-<H1><font color='red'> WELCOME TO SYSGEEKS...! <font></H1>
-  
-  <h2> Call Us : +91-9848363431 </h2>
-
+<body bgcolor=red>
+<marquee><H1><font color='blue'> WELCOME TO SYSGEEKS...! <font></H1></marquee> 
 </body>
 </html>
