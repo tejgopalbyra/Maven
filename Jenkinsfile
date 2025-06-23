@@ -11,7 +11,7 @@ pipeline {
                git 'https://github.com/ashokitschool/maven-web-app.git'
             }
         }
-        stage('Build Maven') {
+        stage('Build Maven pkg') {
             steps {
                sh 'mvn clean package'
             }
