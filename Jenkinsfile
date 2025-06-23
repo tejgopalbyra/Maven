@@ -6,7 +6,7 @@ pipeline {
         maven "maven3"
     }
     stages {
-        stage('Clone') {
+        stage('Clone Repository') {
             steps {
                git 'https://github.com/ashokitschool/maven-web-app.git'
             }
